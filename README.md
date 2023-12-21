@@ -1,5 +1,7 @@
 # 3D Point Cloud Essentials
 
+
+
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Tools and Software](#tools-and-software)
@@ -10,13 +12,16 @@
 7. [Books and Literature](#books-and-literature)
 8. [Contributing](#contributing)
 
+
+
 ## Introduction
 
 Welcome to "3D Point Cloud Essentials"! I've developed this repository as a comprehensive hub for anyone delving into the world of 3D point cloud technology. Whether you're a student, researcher, or industry professional, this repository aims to be your go-to resource. It encompasses a wide array of materials, including essential tools, foundational books, groundbreaking research papers, practical datasets, informative courses, and insightful lectures. The goal is to facilitate learning, research, and development in the dynamic field of 3D point clouds, providing resources that cater to various levels of expertise and interest.
 
-This section provides a comprehensive list of tools and software for 3D point cloud processing, covering a range of functionalities from acquisition and processing to analysis and visualization. Both open-source and commercial options are included to cater to diverse needs and preferences.
+![Alt text for the image](banner.jpg)
 
 ### Open-Source Tools
+This section provides a comprehensive list of tools and software for 3D point cloud processing, covering a range of functionalities from acquisition and processing to analysis and visualization. Both open-source and commercial options are included to cater to diverse needs and preferences.
 
 - **PCL (Point Cloud Library)**
   - A comprehensive library for 2D/3D image and point cloud processing.

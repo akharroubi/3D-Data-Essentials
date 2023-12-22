@@ -93,6 +93,21 @@ This section provides a comprehensive list of tools and software for 3D point cl
 - **COLMAP**
   - Structure-from-Motion (SfM) and Multi-View Stereo (MVS) for scene reconstruction from images.
   - [COLMAP](https://colmap.github.io)
+ 
+### ML/DL
+
+- **RandLA-Net**
+  - Efficient Semantic Segmentation of Large-Scale Point Clouds [[CVPR 2020](https://arxiv.org/abs/1911.11236)].
+  - [Tensorflow implementation](https://github.com/QingyongHu/RandLA-Net)
+ 
+- **KPConv**
+  - Flexible and Deformable Convolution for Point Clouds [[ICCV2019](https://arxiv.org/abs/1904.08889)].
+  - [Tensorflow implementation](https://github.com/HuguesTHOMAS/KPConv)
+  - [PyTorch implementation](https://github.com/HuguesTHOMAS/KPConv-PyTorch)
+ 
+- **Superpoint Transformer**
+  - Efficient 3D Semantic Segmentation with Superpoint Transformer [[ICCV 2023](http://arxiv.org/abs/2306.08045)].
+  - [PyTorch implementation](https://github.com/drprojects/superpoint_transformer)
 
 
 ## Courses and Tutorials

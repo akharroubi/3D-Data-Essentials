@@ -138,13 +138,14 @@ A compilation of courses, tutorials, and lectures offering structured learning p
 
 1. **3D Point Cloud In Cloudcompare:**  [![3D Point Cloud In Cloudcompare](https://img.youtube.com/vi/J_8ZKO8cnlM/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLY8iUIKUWr9NxbAvd68cIraRnLEDKuhvb)
 2. **3D Point Cloud In QGIS**: [![3D Point Cloud In QGIS](https://img.youtube.com/vi/8hPeCwfzd5k/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLY8iUIKUWr9N-3Y7pUhP3TXhHnmOlqwDa)
-3. **Photogrammetry I & II (2021, Uni Bonn, Cyrill Stachniss**: [![Photogrammetry I & II (2021, Uni Bonn, Cyrill Stachniss)](https://img.youtube.com/vi/SyB7Wg1e62A/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLgnQpQtFTOGRYjqjdZxTEQPZuFHQa7O7Y)
-4. **3D Point Cloud and Machine Learning**: [![3D Point Cloud and Machine Learning](https://img.youtube.com/vi/dd1wX8wYYsE/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLY8iUIKUWr9PRHjh4H86UwwnM_3gU3sHV)
-5. **Potree 3D**: [![Potree 3D](https://img.youtube.com/vi/RxSbX7rxn_A/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLY8iUIKUWr9N_xI9vPrDI6wdxlN81wjSF)
-6. **The Early Days of 3D Laser Scanning**: [![The Early Days of 3D Laser Scanning](https://img.youtube.com/vi/9tFcBLqC7xQ/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLY8iUIKUWr9NYmU3x0aRnTq6olbuhR29L)
-7. **Point Cloud Processing with Open3D**: [![Point Cloud Processing with Open3D](https://img.youtube.com/vi/zF3MreN1w6c/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLkmvobsnE0GEZugH1Di2Cr_f32qYkv7aN)
-8. **Photogrammetric Computer Vision**: [![Photogrammetric Computer Vision](https://img.youtube.com/vi/X7AghhqMUm8/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLgnQpQtFTOGTPQhKBOGgjTgX-mzpsOGOX)
-9. **3D Point Cloud Data Processing for SLAM**:  [![3D Point Cloud Data Processing](https://img.youtube.com/vi/nSVOSIUYna4/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLubUquiqNQdN83-fPBzzViEEqohpdlwk2)
+3. **3D Modelling of the Built Environment**: [![3D Modelling of the Built Environment](https://img.youtube.com/vi/SLhT1OTr2bM/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLE4R9OA4Ad91vhJBsK7L2SAue-PoxuL7B)
+4. **Photogrammetry I & II (2021, Uni Bonn, Cyrill Stachniss**: [![Photogrammetry I & II (2021, Uni Bonn, Cyrill Stachniss)](https://img.youtube.com/vi/SyB7Wg1e62A/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLgnQpQtFTOGRYjqjdZxTEQPZuFHQa7O7Y)
+5. **3D Point Cloud and Machine Learning**: [![3D Point Cloud and Machine Learning](https://img.youtube.com/vi/dd1wX8wYYsE/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLY8iUIKUWr9PRHjh4H86UwwnM_3gU3sHV)
+6. **Potree 3D**: [![Potree 3D](https://img.youtube.com/vi/RxSbX7rxn_A/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLY8iUIKUWr9N_xI9vPrDI6wdxlN81wjSF)
+7. **The Early Days of 3D Laser Scanning**: [![The Early Days of 3D Laser Scanning](https://img.youtube.com/vi/9tFcBLqC7xQ/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLY8iUIKUWr9NYmU3x0aRnTq6olbuhR29L)
+8. **Point Cloud Processing with Open3D**: [![Point Cloud Processing with Open3D](https://img.youtube.com/vi/zF3MreN1w6c/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLkmvobsnE0GEZugH1Di2Cr_f32qYkv7aN)
+9. **Photogrammetric Computer Vision**: [![Photogrammetric Computer Vision](https://img.youtube.com/vi/X7AghhqMUm8/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLgnQpQtFTOGTPQhKBOGgjTgX-mzpsOGOX)
+10. **3D Point Cloud Data Processing for SLAM**:  [![3D Point Cloud Data Processing](https://img.youtube.com/vi/nSVOSIUYna4/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLubUquiqNQdN83-fPBzzViEEqohpdlwk2)
 
 
 

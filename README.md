@@ -21,132 +21,78 @@ Welcome to "3D Point Cloud Essentials"! I've developed this repository as a comp
 
 
 ## Tools and Software
+
 This section provides a comprehensive list of tools and software for 3D point cloud processing, covering a range of functionalities from acquisition and processing to analysis and visualization. Both open-source and commercial options are included to cater to diverse needs and preferences.
+
 ### Open-Source Tools
-- **PCL (Point Cloud Library)**
-  - A comprehensive library for 2D/3D image and point cloud processing.
-  - [PCL GitHub](https://github.com/PointCloudLibrary/pcl)
-  - [PCL Website](http://pointclouds.org/)
 
-- **CloudCompare**
-  - Specializes in 3D point cloud and mesh comparison and processing.
-  - [CloudCompare GitHub](https://github.com/CloudCompare/CloudCompare)
-  - [CloudCompare Website](http://www.cloudcompare.org/)
+| Tool | Description | Links |
+| ---- | ----------- | ----- |
+| PCL (Point Cloud Library) | A comprehensive library for 2D/3D image and point cloud processing. | [GitHub](https://github.com/PointCloudLibrary/pcl) \| [Website](http://pointclouds.org/) |
+| CloudCompare | Specializes in 3D point cloud and mesh comparison and processing. | [GitHub](https://github.com/CloudCompare/CloudCompare) \| [Website](http://www.cloudcompare.org/) |
+| Open3D | A toolkit for processing, visualizing, and analyzing 3D data. | [GitHub](https://github.com/intel-isl/Open3D) \| [Website](http://www.open3d.org/) |
+| PDAL (Point Data Abstraction Library) | A C++ library for processing point cloud data. | [GitHub](https://github.com/PDAL/PDAL) \| [Website](https://pdal.io/) |
+| laspy | A Python library for reading, modifying, and writing LAS files. | [GitHub](https://github.com/laspy/laspy) |
+| plyfile | A Python library for reading and writing PLY files. | [GitHub](https://github.com/dranjan/python-plyfile) |
+| MeshLab | An open-source system for processing and editing 3D triangular meshes. | [GitHub](https://github.com/cnr-isti-vclab/meshlab) \| [Website](http://www.meshlab.net/) |
 
-- **Open3D**
-  - A toolkit for processing, visualizing, and analyzing 3D data.
-  - [Open3D GitHub](https://github.com/intel-isl/Open3D)
-  - [Open3D Website](http://www.open3d.org/)
-
-- **PDAL (Point Data Abstraction Library)**
-  - A C++ library for processing point cloud data.
-  - [PDAL GitHub](https://github.com/PDAL/PDAL)
-  - [PDAL Website](https://pdal.io/)
-
-- **laspy**
-  - A Python library for reading, modifying, and writing LAS files.
-  - [laspy GitHub](https://github.com/laspy/laspy)
-
-- **plyfile**
-  - A Python library for reading and writing PLY files.
-  - [plyfile GitHub](https://github.com/dranjan/python-plyfile)
-
-- **MeshLab**
-  - An open-source system for processing and editing 3D triangular meshes.
-  - [MeshLab GitHub](https://github.com/cnr-isti-vclab/meshlab)
-  - [MeshLab Website](http://www.meshlab.net/)
-
-
- 
 ### ML/DL
 
-- **RandLA-Net**
-  - Efficient Semantic Segmentation of Large-Scale Point Clouds [[CVPR 2020](https://arxiv.org/abs/1911.11236)].
-  - [Tensorflow implementation](https://github.com/QingyongHu/RandLA-Net)
- 
-- **KPConv**
-  - Flexible and Deformable Convolution for Point Clouds [[ICCV2019](https://arxiv.org/abs/1904.08889)].
-  - [Tensorflow implementation](https://github.com/HuguesTHOMAS/KPConv)
-  - [PyTorch implementation](https://github.com/HuguesTHOMAS/KPConv-PyTorch)
- 
-- **Superpoint Transformer**
-  - Efficient 3D Semantic Segmentation with Superpoint Transformer [[ICCV 2023](http://arxiv.org/abs/2306.08045)].
-  - [PyTorch implementation](https://github.com/drprojects/superpoint_transformer)
-    
-- **SemanticML**
-  - A package for semantic segmentation of 3D unorganized point clouds using Machine Learning techniques.
-  - [Implementation](https://github.com/Yarroudh/SemanticML)
- 
- ### 3D Modelling
-  - **3dfier**
-    - The open-source tool for creating 3D models
-    - [Implementation](http://tudelft3d.github.io/3dfier)
-  - **City3D**
-    - Large-scale LoD2 Building Reconstruction from Airborne LiDAR Point Clouds
-    - [Implementation](https://github.com/tudelft3d/City3D)
-  - **val3dity**
-    - Validation of 3D primitives according to the international standard ISO19107
-    - [Implementation](https://github.com/tudelft3d/val3dity)
-  - **AdTree**
-    - Accurate, detailed, and automatic modeling of laser-scanned trees
-    - [Implementation](https://github.com/tudelft3d/AdTree)
-  - **Geoflow3D**
-    - Geoflow plugin for building LoD2 reconstruction from a point cloud
-    - [Implementation](https://github.com/geoflow3d)
-  - **PolyFit**
-    - Polygonal Building Surface Reconstruction from Point Clouds
-    - [Implementation](https://github.com/LiangliangNan/PolyFit)
-    
+| Tool | Description | Links |
+| ---- | ----------- | ----- |
+| RandLA-Net | Efficient Semantic Segmentation of Large-Scale Point Clouds. | [Tensorflow](https://github.com/QingyongHu/RandLA-Net) |
+| KPConv | Flexible and Deformable Convolution for Point Clouds. | [Tensorflow](https://github.com/HuguesTHOMAS/KPConv) \| [PyTorch](https://github.com/HuguesTHOMAS/KPConv-PyTorch) |
+| Superpoint Transformer | Efficient 3D Semantic Segmentation with Superpoint Transformer. | [PyTorch](https://github.com/drprojects/superpoint_transformer) |
+| SemanticML | A package for semantic segmentation of 3D unorganized point clouds using ML techniques. | [GitHub](https://github.com/Yarroudh/SemanticML) |
+
+### 3D Modelling
+
+| Tool | Description | Links |
+| ---- | ----------- | ----- |
+| 3dfier | The open-source tool for creating 3D models. | [GitHub](http://tudelft3d.github.io/3dfier) |
+| City3D | Large-scale LoD2 Building Reconstruction from Airborne LiDAR Point Clouds. | [GitHub](https://github.com/tudelft3d/City3D) |
+| val3dity | Validation of 3D primitives according to the international standard ISO19107. | [GitHub](https://github.com/tudelft3d/val3dity) |
+| AdTree | Accurate, detailed, and automatic modeling of laser-scanned trees. | [GitHub](https://github.com/tudelft3d/AdTree) |
+| Geoflow3D | Geoflow plugin for building LoD2 reconstruction from a point cloud. | [GitHub](https://github.com/geoflow3d) |
+| PolyFit | Polygonal Building Surface Reconstruction from Point Clouds. | [GitHub](https://github.com/LiangliangNan/PolyFit) |
+
 ### Commercial Software
 
-- **Leica Cyclone**
-  - Comprehensive software for point cloud processing in various industries.
-  - [Leica Cyclone](https://leica-geosystems.com/products/laser-scanners/software/leica-cyclone)
-
-- **Autodesk Recap**
-  - For 3D scanning and photogrammetry, creating 3D models from photographs and laser scans.
-  - [Autodesk Recap](https://www.autodesk.com/products/recap/overview)
-
-- **Faro Scene**
-  - Processes and manages scanned data, mainly from FARO scanners.
-  - [Faro Scene](https://www.faro.com/en/Products/3D-Surveying/FARO-SCENE)
-    
-- **Agisoft Metashape**
-  - Photogrammetric processing of digital images and 3D spatial data generation.
-  - [Agisoft Metashape](https://www.agisoft.com/)
-
-- **Pix4Dmapper**
-  - Professional photogrammetry software for drone mapping.
-  - [Pix4Dmapper](https://www.pix4d.com/product/pix4dmapper-photogrammetry-software)
+| Tool | Description | Links |
+| ---- | ----------- | ----- |
+| Leica Cyclone | Comprehensive software for point cloud processing in various industries. | [Website](https://leica-geosystems.com/products/laser-scanners/software/leica-cyclone) |
+| Autodesk Recap | For 3D scanning and photogrammetry, creating 3D models from photographs and laser scans. | [Website](https://www.autodesk.com/products/recap/overview) |
+| Faro Scene | Processes and manages scanned data, mainly from FARO scanners. | [Website](https://www.faro.com/en/Products/3D-Surveying/FARO-SCENE) |
+| Agisoft Metashape | Photogrammetric processing of digital images and 3D spatial data generation. | [Website](https://www.agisoft.com/) |
+| Pix4Dmapper | Professional photogrammetry software for drone mapping. | [Website](https://www.pix4d.com/product/pix4dmapper-photogrammetry-software) |
 
 ### Visualization and Analysis
 
-- **ParaView**
-  - A multi-platform tool for data analysis and visualization.
-  - [ParaView Website](https://www.paraview.org/)
+| Tool | Description | Links |
+| ---- | ----------- | ----- |
+| ParaView | A multi-platform tool for data analysis and visualization. | [Website](https://www.paraview.org/) |
+| Blender | A free and open-source 3D creation suite for modeling, animation, and rendering. | [Website](https://www.blender.org/) |
+| COLMAP | Structure-from-Motion (SfM) and Multi-View Stereo (MVS) for scene reconstruction from images. | [Website](https://colmap.github.io) |
 
-- **Blender**
-  - A free and open-source 3D creation suite for modeling, animation, and rendering.
-  - [Blender Website](https://www.blender.org/)
- 
-- **COLMAP**
-  - Structure-from-Motion (SfM) and Multi-View Stereo (MVS) for scene reconstruction from images.
-  - [COLMAP](https://colmap.github.io)
     
 
 ## Courses and Tutorials
 A compilation of courses, tutorials, and lectures offering structured learning paths for all levels in 3D point cloud technology.
 
-1. **3D Point Cloud In Cloudcompare:**  [![3D Point Cloud In Cloudcompare](https://img.youtube.com/vi/J_8ZKO8cnlM/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLY8iUIKUWr9NxbAvd68cIraRnLEDKuhvb)
-2. **3D Point Cloud In QGIS**: [![3D Point Cloud In QGIS](https://img.youtube.com/vi/8hPeCwfzd5k/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLY8iUIKUWr9N-3Y7pUhP3TXhHnmOlqwDa)
-3. **3D Modelling of the Built Environment**: [![3D Modelling of the Built Environment](https://img.youtube.com/vi/SLhT1OTr2bM/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLE4R9OA4Ad91vhJBsK7L2SAue-PoxuL7B)
-4. **Photogrammetry I & II (2021, Uni Bonn, Cyrill Stachniss**: [![Photogrammetry I & II (2021, Uni Bonn, Cyrill Stachniss)](https://img.youtube.com/vi/SyB7Wg1e62A/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLgnQpQtFTOGRYjqjdZxTEQPZuFHQa7O7Y)
-5. **3D Point Cloud and Machine Learning**: [![3D Point Cloud and Machine Learning](https://img.youtube.com/vi/dd1wX8wYYsE/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLY8iUIKUWr9PRHjh4H86UwwnM_3gU3sHV)
-6. **Potree 3D**: [![Potree 3D](https://img.youtube.com/vi/RxSbX7rxn_A/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLY8iUIKUWr9N_xI9vPrDI6wdxlN81wjSF)
-7. **The Early Days of 3D Laser Scanning**: [![The Early Days of 3D Laser Scanning](https://img.youtube.com/vi/9tFcBLqC7xQ/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLY8iUIKUWr9NYmU3x0aRnTq6olbuhR29L)
-8. **Point Cloud Processing with Open3D**: [![Point Cloud Processing with Open3D](https://img.youtube.com/vi/zF3MreN1w6c/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLkmvobsnE0GEZugH1Di2Cr_f32qYkv7aN)
-9. **Photogrammetric Computer Vision**: [![Photogrammetric Computer Vision](https://img.youtube.com/vi/X7AghhqMUm8/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLgnQpQtFTOGTPQhKBOGgjTgX-mzpsOGOX)
-10. **3D Point Cloud Data Processing for SLAM**:  [![3D Point Cloud Data Processing](https://img.youtube.com/vi/nSVOSIUYna4/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLubUquiqNQdN83-fPBzzViEEqohpdlwk2)
+
+| Course Title | Link |
+| ------------ | ---- |
+| 3D Point Cloud In Cloudcompare | [![3D Point Cloud In Cloudcompare](https://img.youtube.com/vi/J_8ZKO8cnlM/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLY8iUIKUWr9NxbAvd68cIraRnLEDKuhvb) |
+| 3D Point Cloud In QGIS | [![3D Point Cloud In QGIS](https://img.youtube.com/vi/8hPeCwfzd5k/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLY8iUIKUWr9N-3Y7pUhP3TXhHnmOlqwDa) |
+| 3D Modelling of the Built Environment | [![3D Modelling of the Built Environment](https://img.youtube.com/vi/SLhT1OTr2bM/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLE4R9OA4Ad91vhJBsK7L2SAue-PoxuL7B) |
+| Photogrammetry I & II (2021, Uni Bonn, Cyrill Stachniss) | [![Photogrammetry I & II](https://img.youtube.com/vi/SyB7Wg1e62A/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLgnQpQtFTOGRYjqjdZxTEQPZuFHQa7O7Y) |
+| 3D Point Cloud and Machine Learning | [![3D Point Cloud and Machine Learning](https://img.youtube.com/vi/dd1wX8wYYsE/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLY8iUIKUWr9PRHjh4H86UwwnM_3gU3sHV) |
+| Potree 3D | [![Potree 3D](https://img.youtube.com/vi/RxSbX7rxn_A/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLY8iUIKUWr9N_xI9vPrDI6wdxlN81wjSF) |
+| The Early Days of 3D Laser Scanning | [![The Early Days of 3D Laser Scanning](https://img.youtube.com/vi/9tFcBLqC7xQ/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLY8iUIKUWr9NYmU3x0aRnTq6olbuhR29L) |
+| Point Cloud Processing with Open3D | [![Point Cloud Processing with Open3D](https://img.youtube.com/vi/zF3MreN1w6c/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLkmvobsnE0GEZugH1Di2Cr_f32qYkv7aN) |
+| Photogrammetric Computer Vision | [![Photogrammetric Computer Vision](https://img.youtube.com/vi/X7AghhqMUm8/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLgnQpQtFTOGTPQhKBOGgjTgX-mzpsOGOX) |
+| 3D Point Cloud Data Processing for SLAM | [![3D Point Cloud Data Processing](https://img.youtube.com/vi/nSVOSIUYna4/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLubUquiqNQdN83-fPBzzViEEqohpdlwk2) |
+
 
 
 

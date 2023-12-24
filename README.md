@@ -57,6 +57,47 @@ This section provides a comprehensive list of tools and software for 3D point cl
   - [MeshLab GitHub](https://github.com/cnr-isti-vclab/meshlab)
   - [MeshLab Website](http://www.meshlab.net/)
 
+
+ 
+### ML/DL
+
+- **RandLA-Net**
+  - Efficient Semantic Segmentation of Large-Scale Point Clouds [[CVPR 2020](https://arxiv.org/abs/1911.11236)].
+  - [Tensorflow implementation](https://github.com/QingyongHu/RandLA-Net)
+ 
+- **KPConv**
+  - Flexible and Deformable Convolution for Point Clouds [[ICCV2019](https://arxiv.org/abs/1904.08889)].
+  - [Tensorflow implementation](https://github.com/HuguesTHOMAS/KPConv)
+  - [PyTorch implementation](https://github.com/HuguesTHOMAS/KPConv-PyTorch)
+ 
+- **Superpoint Transformer**
+  - Efficient 3D Semantic Segmentation with Superpoint Transformer [[ICCV 2023](http://arxiv.org/abs/2306.08045)].
+  - [PyTorch implementation](https://github.com/drprojects/superpoint_transformer)
+    
+- **SemanticML**
+  - A package for semantic segmentation of 3D unorganized point clouds using Machine Learning techniques.
+  - [Implementation](https://github.com/Yarroudh/SemanticML)
+ 
+ ### 3D Modelling
+  - **3dfier**
+    - The open-source tool for creating 3D models
+    - [Implementation](http://tudelft3d.github.io/3dfier)
+  - **City3D**
+    - Large-scale LoD2 Building Reconstruction from Airborne LiDAR Point Clouds
+    - [Implementation](https://github.com/tudelft3d/City3D)
+  - **val3dity**
+    - Validation of 3D primitives according to the international standard ISO19107
+    - [Implementation](https://github.com/tudelft3d/val3dity)
+  - **AdTree**
+    - Accurate, detailed, and automatic modeling of laser-scanned trees
+    - [Implementation](https://github.com/tudelft3d/AdTree)
+  - **Geoflow3D**
+    - Geoflow plugin for building LoD2 reconstruction from a point cloud
+    - [Implementation](https://github.com/geoflow3d)
+  - **PolyFit**
+    - Polygonal Building Surface Reconstruction from Point Clouds
+    - [Implementation](https://github.com/LiangliangNan/PolyFit)
+    
 ### Commercial Software
 
 - **Leica Cyclone**
@@ -92,47 +133,7 @@ This section provides a comprehensive list of tools and software for 3D point cl
 - **COLMAP**
   - Structure-from-Motion (SfM) and Multi-View Stereo (MVS) for scene reconstruction from images.
   - [COLMAP](https://colmap.github.io)
- 
-### ML/DL
-
-- **RandLA-Net**
-  - Efficient Semantic Segmentation of Large-Scale Point Clouds [[CVPR 2020](https://arxiv.org/abs/1911.11236)].
-  - [Tensorflow implementation](https://github.com/QingyongHu/RandLA-Net)
- 
-- **KPConv**
-  - Flexible and Deformable Convolution for Point Clouds [[ICCV2019](https://arxiv.org/abs/1904.08889)].
-  - [Tensorflow implementation](https://github.com/HuguesTHOMAS/KPConv)
-  - [PyTorch implementation](https://github.com/HuguesTHOMAS/KPConv-PyTorch)
- 
-- **Superpoint Transformer**
-  - Efficient 3D Semantic Segmentation with Superpoint Transformer [[ICCV 2023](http://arxiv.org/abs/2306.08045)].
-  - [PyTorch implementation](https://github.com/drprojects/superpoint_transformer)
     
-- **SemanticML**
-  - A package for semantic segmentation of 3D unorganized point clouds using Machine Learning techniques.
-  - [Implementation](https://github.com/Yarroudh/SemanticML)
- 
- ### 3D Modelling
-  - **3dfier**
-    - The open-source tool for creating 3D models
-    - [Implementation](http://tudelft3d.github.io/3dfier)
-  - **City3D**
-    - Large-scale LoD2 Building Reconstruction from Airborne LiDAR Point Clouds
-    - [Implementation](https://github.com/tudelft3d/City3D)
-  - **val3dity**
-    - Validation of 3D primitives according to the international standard ISO19107
-    - [Implementation](https://github.com/tudelft3d/val3dity)
-  - **AdTree**
-    - Accurate, detailed, and automatic modelling of laser-scanned trees
-    - [Implementation](https://github.com/tudelft3d/AdTree)
-  - **Geoflow3D**
-    - Geoflow plugin for building LoD2 reconstruction from a point cloud
-    - [Implementation](https://github.com/geoflow3d)
-  - **PolyFit**
-    - Polygonal Building Surface Reconstruction from Point Clouds
-    - [Implementation](https://github.com/LiangliangNan/PolyFit)
-    
-
 
 ## Courses and Tutorials
 A compilation of courses, tutorials, and lectures offering structured learning paths for all levels in 3D point cloud technology.

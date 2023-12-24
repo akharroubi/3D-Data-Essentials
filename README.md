@@ -1,5 +1,3 @@
-# 3D DATA PROCESSING AND MODELING ESSENTIALS
-
 ![Alt text for the image](banner.png)
 
 ## Table of Contents

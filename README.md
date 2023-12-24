@@ -143,7 +143,8 @@ A compilation of courses, tutorials, and lectures offering structured learning p
 5. **Potree 3D**: [![Potree 3D](https://img.youtube.com/vi/RxSbX7rxn_A/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLY8iUIKUWr9N_xI9vPrDI6wdxlN81wjSF)
 6. **The Early Days of 3D Laser Scanning**: [![The Early Days of 3D Laser Scanning](https://img.youtube.com/vi/9tFcBLqC7xQ/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLY8iUIKUWr9NYmU3x0aRnTq6olbuhR29L)
 7. **Point Cloud Processing with Open3D**: [![Point Cloud Processing with Open3D](https://img.youtube.com/vi/zF3MreN1w6c/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLkmvobsnE0GEZugH1Di2Cr_f32qYkv7aN)
-8. **3D Point Cloud Data Processing for SLAM**:  [![3D Point Cloud Data Processing](https://img.youtube.com/vi/nSVOSIUYna4/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLubUquiqNQdN83-fPBzzViEEqohpdlwk2)
+8. **Photogrammetric Computer Vision**: [![Photogrammetric Computer Vision](https://img.youtube.com/vi/X7AghhqMUm8/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLgnQpQtFTOGTPQhKBOGgjTgX-mzpsOGOX)
+9. **3D Point Cloud Data Processing for SLAM**:  [![3D Point Cloud Data Processing](https://img.youtube.com/vi/nSVOSIUYna4/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLubUquiqNQdN83-fPBzzViEEqohpdlwk2)
 
 
 

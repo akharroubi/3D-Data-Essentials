@@ -107,14 +107,31 @@ This section provides a comprehensive list of tools and software for 3D point cl
 - **Superpoint Transformer**
   - Efficient 3D Semantic Segmentation with Superpoint Transformer [[ICCV 2023](http://arxiv.org/abs/2306.08045)].
   - [PyTorch implementation](https://github.com/drprojects/superpoint_transformer)
+    
+- **SemanticML**
+  - A package for semantic segmentation of 3D unorganized point clouds using Machine Learning techniques.
+  - [Implementation](https://github.com/Yarroudh/SemanticML)
  
- ### 3D Modeling
+ ### 3D Modelling
   - **3dfier**
     - The open-source tool for creating 3D models
     - [Implementation](http://tudelft3d.github.io/3dfier)
   - **City3D**
     - Large-scale LoD2 Building Reconstruction from Airborne LiDAR Point Clouds
-    - [Implementation](https://github.com/tudelft3d/City3D))
+    - [Implementation](https://github.com/tudelft3d/City3D)
+  - **val3dity**
+    - Validation of 3D primitives according to the international standard ISO19107
+    - [Implementation](https://github.com/tudelft3d/val3dity)
+  - **AdTree**
+    - Accurate, detailed, and automatic modelling of laser-scanned trees
+    - [Implementation](https://github.com/tudelft3d/AdTree)
+  - **Geoflow3D**
+    - Geoflow plugin for building LoD2 reconstruction from a point cloud
+    - [Implementation](https://github.com/geoflow3d)
+  - **PolyFit**
+    - Polygonal Building Surface Reconstruction from Point Clouds
+    - [Implementation](https://github.com/LiangliangNan/PolyFit)
+    
 
 
 ## Courses and Tutorials

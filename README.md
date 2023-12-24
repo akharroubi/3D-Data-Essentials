@@ -136,6 +136,17 @@ This section provides a comprehensive list of tools and software for 3D point cl
 ## Courses and Tutorials
 A compilation of courses, tutorials, and lectures offering structured learning paths for all levels in 3D point cloud technology.
 
+1. **3D Point Cloud In Cloudcompare:**  [![3D Point Cloud In Cloudcompare](https://img.youtube.com/vi/J_8ZKO8cnlM/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLY8iUIKUWr9NxbAvd68cIraRnLEDKuhvb)
+2. **3D Point Cloud In QGIS**: [![3D Point Cloud In QGIS](https://img.youtube.com/vi/8hPeCwfzd5k/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLY8iUIKUWr9N-3Y7pUhP3TXhHnmOlqwDa)
+3. **Photogrammetry I & II (2021, Uni Bonn, Cyrill Stachniss**: [![Photogrammetry I & II (2021, Uni Bonn, Cyrill Stachniss)](https://img.youtube.com/vi/SyB7Wg1e62A/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLgnQpQtFTOGRYjqjdZxTEQPZuFHQa7O7Y)
+4. **3D Point Cloud and Machine Learning**: [![3D Point Cloud and Machine Learning](https://img.youtube.com/vi/dd1wX8wYYsE/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLY8iUIKUWr9PRHjh4H86UwwnM_3gU3sHV)
+5. **Potree 3D**: [![Potree 3D](https://img.youtube.com/vi/RxSbX7rxn_A/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLY8iUIKUWr9N_xI9vPrDI6wdxlN81wjSF)
+6. **The Early Days of 3D Laser Scanning**: [![The Early Days of 3D Laser Scanning](https://img.youtube.com/vi/9tFcBLqC7xQ/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLY8iUIKUWr9NYmU3x0aRnTq6olbuhR29L)
+7. **Point Cloud Processing with Open3D**: [![Point Cloud Processing with Open3D](https://img.youtube.com/vi/zF3MreN1w6c/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLkmvobsnE0GEZugH1Di2Cr_f32qYkv7aN)
+8. **3D Point Cloud Data Processing for SLAM**:  [![3D Point Cloud Data Processing](https://img.youtube.com/vi/nSVOSIUYna4/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLubUquiqNQdN83-fPBzzViEEqohpdlwk2)
+
+
+
 ## Lectures and Seminars
 Recorded lectures and seminars from field experts, providing insights into both industry trends and academic advancements.
 
@@ -166,9 +177,6 @@ The field of 3D point cloud technology is enriched by a vibrant community of pro
 
 
 
-
-
- 
 ## Books and Literature
 
 The field of 3D point cloud technology is vast and intricate, requiring a solid understanding of various concepts and practices. This section lists books and literature that provide valuable insights and knowledge, beneficial for beginners and experts alike.

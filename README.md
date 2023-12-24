@@ -1,4 +1,4 @@
-# 3D Point Cloud Essentials
+# 3D DATA PROCESSING AND MODELING ESSENTIALS
 
 
 

@@ -10,7 +10,8 @@
 5. [Project Examples and Case Studies](#project-examples-and-case-studies) 💼
 6. [Community and Networking](#community-and-networking) 🌐
 7. [Books and Literature](#books-and-literature) 📖
-8. [Contributing](#contributing) 👐
+8. [3D tech startup](#3D-tech-startup) 📖
+9. [Contributing](#contributing) 👐
 
 
 
@@ -191,7 +192,27 @@ The field of 3D point cloud technology is vast and intricate, requiring a solid 
 
 This list is a starting point and is not exhaustive. Suggestions and contributions to this section are welcome.
 
+## 3D tech startup
 
+- NavVis: provides a mobile 3D mapping system/processing solutions for digitizing indoor and outdoor spaces (e.g. NavVis VLX and IVION).
+Matterport: provides hardware and cloud-based platform for creating and sharing 3D models of buildings and other interior spaces (e.g. Pro 3)
+-------------------
+- Flai: provides Software/Processing and Model as a service, mainly known for its FlaiNet for automatic 3D point cloud classification.
+- POINTLY: provides a cloud-based B2B software solution for 3D point cloud automatic classification and vectorization.
+- ATIS.cloud: provides a cloud-based platform for visualizing, analyzing, and sharing 3D point cloud data.
+- Vercator: Cloud-based platform for processing 3D point cloud data (Registration, Classification, and format conversion).
+- The Cross Product (TCP): Automated software for classification, vectorization, inspection, inventory, and measurements in 3D point clouds. It's a Saas mainly used for railway and highway applications. 
+-------------------
+- NUBIGON Inc.: a point cloud visualization and animation software for the reality capture industry. The software is well known for its eye-catching renderings.
+- Prevu3D: Digital Twin Solution Software For Business, It's a 3D point cloud processing platform for industrial applications. It's also used for handling Mesh, CAD, and BIM. 
+-------------------
+- Pointerra: provides a cloud-based platform for creating and managing digital twins of buildings and other infrastructure (e.g. Core, Analytics, and Answers) 
+- Cintoo: Cloud-based platform for managing and processing 3D point cloud, BIM, and digital twin.
+-------------------
+- Outsight: 3D lidar sensors/software solutions for robotics, transportation, monitoring, and logistics (e.g. Perception, Analytics, and simulation)
+- Jakarto: a company specialized in 3D mapping offering a digital twin and automated asset inventory creation (e.g. data acquisition, processing, and usage)
+- Point Cloud Technology GmbH: offers a universal platform for big data analytics on 3D point clouds based on machine learning.
+- Nira.app: Nira is a collaborative platform capable of rendering massive 3D assets in real-time for interactive, web-based inspection and review on any device, including smartphones and tablets.
 
 
 ## Contributing

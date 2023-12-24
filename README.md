@@ -70,6 +70,14 @@ This section provides a comprehensive list of tools and software for 3D point cl
 - **Faro Scene**
   - Processes and manages scanned data, mainly from FARO scanners.
   - [Faro Scene](https://www.faro.com/en/Products/3D-Surveying/FARO-SCENE)
+    
+- **Agisoft Metashape**
+  - Photogrammetric processing of digital images and 3D spatial data generation.
+  - [Agisoft Metashape](https://www.agisoft.com/)
+
+- **Pix4Dmapper**
+  - Professional photogrammetry software for drone mapping.
+  - [Pix4Dmapper](https://www.pix4d.com/product/pix4dmapper-photogrammetry-software)
 
 ### Visualization and Analysis
 
@@ -80,16 +88,6 @@ This section provides a comprehensive list of tools and software for 3D point cl
 - **Blender**
   - A free and open-source 3D creation suite for modeling, animation, and rendering.
   - [Blender Website](https://www.blender.org/)
-
-### Data Acquisition
-
-- **Agisoft Metashape**
-  - Photogrammetric processing of digital images and 3D spatial data generation.
-  - [Agisoft Metashape](https://www.agisoft.com/)
-
-- **Pix4Dmapper**
-  - Professional photogrammetry software for drone mapping.
-  - [Pix4Dmapper](https://www.pix4d.com/product/pix4dmapper-photogrammetry-software)
  
 - **COLMAP**
   - Structure-from-Motion (SfM) and Multi-View Stereo (MVS) for scene reconstruction from images.
@@ -109,6 +107,14 @@ This section provides a comprehensive list of tools and software for 3D point cl
 - **Superpoint Transformer**
   - Efficient 3D Semantic Segmentation with Superpoint Transformer [[ICCV 2023](http://arxiv.org/abs/2306.08045)].
   - [PyTorch implementation](https://github.com/drprojects/superpoint_transformer)
+ 
+ ### 3D Modeling
+  - **3dfier**
+    - The open-source tool for creating 3D models
+    - [Implementation](http://tudelft3d.github.io/3dfier)
+  - **City3D**
+    - Large-scale LoD2 Building Reconstruction from Airborne LiDAR Point Clouds
+    - [Implementation](https://github.com/tudelft3d/City3D))
 
 
 ## Courses and Tutorials

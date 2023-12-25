@@ -186,6 +186,21 @@ This list is a starting point and is not exhaustive. Suggestions and contributio
 
 
 
+### LiDAR Data Programs
+This table provides an overview of various LiDAR data programs available in open access, highlighting their applications and the countries they cover. Each entry includes a direct link to access the data or learn more about the program.
+
+| Dataset | Description | Country | Links |
+|---------|-------------|---------|-------|
+| **LiDAR HD - France** | High-definition LiDAR data. | France | [Website](https://geoservices.ign.fr/lidarhd) |
+| **AHN - Actueel Hoogtebestand Nederland** | A detailed elevation dataset of the Netherlands, derived from LiDAR scans. Widely used for water management, urban planning, and environmental monitoring. | Netherlands | [Website](https://www.ahn.nl/) |
+| **OpenTopography** | Provides access to high-resolution, Earth science-oriented, topography data, and tools, including LiDAR. | USA | [Website](https://opentopography.org/) |
+| **Lidar Data - Geoscience Australia** | LiDAR data collection covering various regions of Australia, supporting environmental research and management. | Australia | [Website](http://www.ga.gov.au/scientific-topics/national-location-information/digital-elevation-data) |
+| **UK Environment Agency LiDAR** | High-quality LiDAR data covering England, used for flood risk management and environmental assessment. | United Kingdom | [Website](https://environment.data.gov.uk/DefraDataDownload/?Mode=survey) |
+| **Canadian Digital Elevation Model (CDEM)** | Derived from LiDAR and other sources, this dataset provides elevation data across Canada. | Canada | [Website](https://canadiangis.com/free-canada-lidar-data.php) |
+| **New Zealand LiDAR** | High-resolution topographic data collected via LiDAR, covering significant parts of New Zealand. | New Zealand | [Website](https://www.linz.govt.nz/products-services/data/types-linz-data/elevation-data) |
+
+
+
 
 
 

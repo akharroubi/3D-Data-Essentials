@@ -92,6 +92,7 @@ A compilation of courses, tutorials, and lectures offering structured learning p
 | Point Cloud Processing with Open3D | [![Point Cloud Processing with Open3D](https://img.youtube.com/vi/zF3MreN1w6c/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLkmvobsnE0GEZugH1Di2Cr_f32qYkv7aN) |
 | Photogrammetric Computer Vision | [![Photogrammetric Computer Vision](https://img.youtube.com/vi/X7AghhqMUm8/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLgnQpQtFTOGTPQhKBOGgjTgX-mzpsOGOX) |
 | 3D Point Cloud Data Processing for SLAM | [![3D Point Cloud Data Processing](https://img.youtube.com/vi/nSVOSIUYna4/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLubUquiqNQdN83-fPBzzViEEqohpdlwk2) |
+| Open3D | [![3D Point Cloud Data Processing](https://img.youtube.com/vi/UBRMzuTjE4E/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLY67kK07siHWNiaWLUj8hZ_kQYQpwLSUR) |
 
 
 

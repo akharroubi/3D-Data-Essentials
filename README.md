@@ -174,6 +174,22 @@ This list is a starting point and is not exhaustive. Suggestions and contributio
 
 ## Datasets
 
+### Annotated Point Cloud Datasets
+
+| Dataset | Description | Links |
+|---|---|---|
+| **Paris-Lille 3D** | The Paris-Lille-3D is a Dataset and a Benchmark on Point Cloud Classification. The data has been produced by a Mobile Laser System (MLS) in two different cities in France (Paris and Lille). | [Website](https://npm3d.fr/paris-lille-3d) |
+| **Toronto3D** | A large-scale point cloud dataset of Toronto, Canada, covering approximately 1 km of road and consists of about 78.3 million points.. | [Website](https://github.com/WeikaiTan/Toronto-3D) |
+| **Semantic3D** | A point cloud dataset of 10 different urban environments, including parks, streets, and buildings. | [Website](http://semantic3d.net/) |
+| **Wuhan Railway 3D** | A point cloud dataset of the railway network in Wuhan, China. | [Website](https://github.com/WHU-USI3DV/WHU-Railway3D) |
+| **Saint Petersburg** | A point cloud dataset of Saint Petersburg, Russia. | [Website](https://github.com/lytkinsa96/Saint-Petersburg-3D-Dataset) |
+
+
+
+
+
+
+
 ## 3D Tech Startups
 
 This section lists various startups in the 3D technology space, each offering unique solutions ranging from mapping systems to cloud-based platforms for 3D data processing and digital twin creation.

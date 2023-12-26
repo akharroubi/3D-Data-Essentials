@@ -4,7 +4,7 @@
 1. [Introduction](#introduction) 🎉
 2. [Tools and Software](#tools-and-software) 🛠️
 3. [Courses and Tutorials](#courses-and-tutorials) 📚
-4. [Learning RoadMap] (#Learning-RoadMap) 🚀
+4. [Learning RoadMap](#Learning-RoadMap) 🚀
 5. [Lectures and Seminars](#lectures-and-seminars) 🎤
 6. [Project Examples and Case Studies](#project-examples-and-case-studies) 💼
 7. [Community and Networking](#community-and-networking) 🌐

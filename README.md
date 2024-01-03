@@ -36,6 +36,8 @@ This section provides a comprehensive list of tools and software for 3D point cl
 | laspy | A Python library for reading, modifying, and writing LAS files. | [GitHub](https://github.com/laspy/laspy) |
 | plyfile | A Python library for reading and writing PLY files. | [GitHub](https://github.com/dranjan/python-plyfile) |
 | MeshLab | An open-source system for processing and editing 3D triangular meshes. | [GitHub](https://github.com/cnr-isti-vclab/meshlab) \| [Website](http://www.meshlab.net/) |
+| LidarView | which is an open source application derived from ParaView and adding tools for live sensor connection / replay and point cloud specific algorithms ( including wrapping of PCL fonctionalities as filters, SLAM, Deep Learning... ) |[GitLab ](https://gitlab.kitware.com/LidarView/lidarview) \| [Website ]( https://lidarview.kitware.com/) |
+| Telesculptor | which is an open source photogrammetry software, specialized in creating 3D point cloud and meshes in aerial imagery | [Github ]( https://github.com/Kitware/TeleSculptor) \|[Website](https://telesculptor.org/) |
 
 ### ML/DL
 
@@ -57,6 +59,14 @@ This section provides a comprehensive list of tools and software for 3D point cl
 | Geoflow3D | Geoflow plugin for building LoD2 reconstruction from a point cloud. | [GitHub](https://github.com/geoflow3d) |
 | PolyFit | Polygonal Building Surface Reconstruction from Point Clouds. | [GitHub](https://github.com/LiangliangNan/PolyFit) |
 
+### Visualization and Analysis
+
+| Tool | Description | Links |
+| ---- | ----------- | ----- |
+| ParaView | A multi-platform tool for data analysis and visualization. | [Website](https://www.paraview.org/) |
+| Blender | A free and open-source 3D creation suite for modeling, animation, and rendering. | [Website](https://www.blender.org/) |
+| COLMAP | Structure-from-Motion (SfM) and Multi-View Stereo (MVS) for scene reconstruction from images. | [Website](https://colmap.github.io) |
+
 ### Commercial Software
 
 | Tool | Description | Links |
@@ -67,15 +77,7 @@ This section provides a comprehensive list of tools and software for 3D point cl
 | Agisoft Metashape | Photogrammetric processing of digital images and 3D spatial data generation. | [Website](https://www.agisoft.com/) |
 | Pix4Dmapper | Professional photogrammetry software for drone mapping. | [Website](https://www.pix4d.com/product/pix4dmapper-photogrammetry-software) |
 
-### Visualization and Analysis
 
-| Tool | Description | Links |
-| ---- | ----------- | ----- |
-| ParaView | A multi-platform tool for data analysis and visualization. | [Website](https://www.paraview.org/) |
-| Blender | A free and open-source 3D creation suite for modeling, animation, and rendering. | [Website](https://www.blender.org/) |
-| COLMAP | Structure-from-Motion (SfM) and Multi-View Stereo (MVS) for scene reconstruction from images. | [Website](https://colmap.github.io) |
-
-    
 
 ## Courses and Tutorials
 A compilation of courses, tutorials, and lectures offering structured learning paths for all levels in 3D point cloud technology.

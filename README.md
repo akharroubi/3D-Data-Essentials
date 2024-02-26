@@ -43,6 +43,7 @@ This section provides a comprehensive list of tools and software for 3D point cl
 
 | Tool | Description | Links |
 | ---- | ----------- | ----- |
+| VirtuaLearn3D | The VirtuaLearn3D (VL3D) framework is a software for point-wise classification and regression on 3D point clouds. | [Pyhton](https://github.com/3dgeo-heidelberg/virtualearn3d) |
 | RandLA-Net | Efficient Semantic Segmentation of Large-Scale Point Clouds. | [Tensorflow](https://github.com/QingyongHu/RandLA-Net) |
 | KPConv | Flexible and Deformable Convolution for Point Clouds. | [Tensorflow](https://github.com/HuguesTHOMAS/KPConv) \| [PyTorch](https://github.com/HuguesTHOMAS/KPConv-PyTorch) |
 | Superpoint Transformer | Efficient 3D Semantic Segmentation with Superpoint Transformer. | [PyTorch](https://github.com/drprojects/superpoint_transformer) |

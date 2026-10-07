@@ -258,6 +258,7 @@ This section lists various startups in the 3D technology space, each offering un
 | NavVis | Mobile 3D mapping system/processing solutions for indoor and outdoor spaces. | [NavVis](https://www.navvis.com/) |
 | Matterport | Hardware and cloud-based platform for creating/sharing 3D models of buildings and interior spaces. | [Matterport](https://go.matterport.com/) |
 | Flai | Software/Processing and Model as a service, known for FlaiNet for automatic 3D point cloud classification. | [Flai](https://www.flai.ai/) |
+| Vecten AI | AI software for LiDAR point cloud classification and terrain-model workflows, available as Vecten Desktop and browser-based Vecten Cloud. | [Vecten AI](https://www.vecten.ai/) |
 | POINTLY | Cloud-based B2B software for automatic 3D point cloud classification and vectorization. | [POINTLY](https://pointly.ai/) |
 | ATIS.cloud | Cloud-based platform for visualizing, analyzing, and sharing 3D point cloud data. | [ATIS.cloud](https://www.atis.cloud/) |
 | Vercator | Cloud-based platform for processing 3D point cloud data (Registration, Classification, format conversion). | [Vercator](https://vercator.com/) |
